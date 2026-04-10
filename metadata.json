@@ -1,0 +1,5 @@
+{
+  "name": "Remix: AI CV Screening System",
+  "description": "Hệ thống chấm điểm CV bằng AI với giao diện Glassmorphism, hỗ trợ phân tích nhiều CV cùng lúc và gửi báo cáo qua email.",
+  "requestFramePermissions": []
+}
